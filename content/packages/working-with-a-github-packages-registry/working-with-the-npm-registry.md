@@ -91,7 +91,7 @@ $ npm login --scope=@<em>OWNER</em> --registry=https://<em>HOSTNAME</em>/_regist
 
 {% note %}
 
-**Note:** Package names and scopes must only use lowercase letters.
+**Note:** Package names and scopes should only use lowercase letters.
 
 {% endnote %}
 
